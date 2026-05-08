@@ -1,0 +1,7 @@
+/jadx
+*.py
+*.txt
+*.csv
+*.ps1
+/__pycache__
+/cache
